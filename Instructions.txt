@@ -1,0 +1,10 @@
+Oculus Rift and Oculus Touch controllers required
+
+Only right Oculus Touch controller is visible
+
+A galaxy of potential flowers spans across your field of view. Press A to activate a seed
+Unfortunately, occasionally thorns may spawn. 
+
+Thorns infect flowers over time. Remind them of their flower past.
+
+Win
